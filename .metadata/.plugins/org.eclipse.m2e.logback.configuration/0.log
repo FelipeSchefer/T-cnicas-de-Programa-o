@@ -1,1 +1,10 @@
 2022-08-03 19:11:58,072 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-10 19:57:19,304 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-10 19:57:37,750 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.mbs:tp:0.0.1-SNAPSHOT @ C:\Users\aluno380\Desktop\Tecnicas-de-Programacao\senai_tp\tp\pom.xml.
+2022-08-10 19:57:37,911 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp/src/main/java
+2022-08-10 19:57:37,912 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp/src/test/java
+2022-08-10 19:57:37,962 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-08-10 19:57:40,178 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-10 19:57:40,180 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno380\Desktop\Tecnicas-de-Programacao\senai_tp\tp\src\main\resources
+2022-08-10 19:57:40,183 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-10 19:57:40,185 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluno380\Desktop\Tecnicas-de-Programacao\senai_tp\tp\src\test\resources
